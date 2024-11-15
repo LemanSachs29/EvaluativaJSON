@@ -1,14 +1,16 @@
 <?php
 
-class Awards{
+class Award{
 
-    private $awardsArray = ["N/A"];
+    private $awardsArray;
 
-    function __construct(){
+    
+    public function __construct($AwArray=("N/A")){
+    $this->awardsArray=$AwArray;
+  }
 
-    }
-    function __construct($awardsArray){
-        $this->awardsArray = $awardsArray;
+    function __SETAwardsArray($awardsList){
+        $this->awardsArray =  $awardsList;
     }
 
     function addAward($award){
@@ -16,12 +18,24 @@ class Awards{
     }
 
     function printAwards(){
-        var_dump($awardsArray);
+        var_dump($this->awardsArray);
     }
 }
 
-$premios = new Awards();
 
-$premios->printAwards();
+$miAward = new Award();
+
+$miAward->printAwards();
+
+$array = array("premio1", "premio2", "premio3");
+
+$miAward->__SETAwardsArray($array);
+
+$miAward->printAwards();
+
+$miAward->addAward("premio4");
+
+$miAward->printAwards();
+
 
 ?>
