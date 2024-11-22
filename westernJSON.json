@@ -1,239 +1,256 @@
-{
-    "John Ford": [
-        {
-            "titulo": "La diligencia",
-            "duracion": "96 min",
-            "anio": "1939",
-            "reparto": [
-                "Claire Trevor",
-                "John Wayne",
-                "Andy Devine",
-                "John Carradine",
-                "Thomas Mitchell"
-            ],
-            "premios": [
-                "Premio de la Academia al Mejor Actor de Reparto (Thomas Mitchell)"
-            ]
-        },
-        {
-            "titulo": "Más corazón que odio",
-            "duracion": "119 min",
-            "anio": "1956",
-            "reparto": [
-                "John Wayne",
-                "Jeffrey Hunter",
-                "Natalie Wood",
-                "Vera Miles",
-                "Ward Bond"
-            ],
-            "premios": [
-                "Premio de la Academia a la Mejor Fotografía (Color)"
-            ]
-        },
-        {
-            "titulo": "El hombre que mató a Liberty Valance",
-            "duracion": "123 min",
-            "anio": "1962",
-            "reparto": [
-                "James Stewart",
-                "John Wayne",
-                "Vera Miles",
-                "Lee Marvin",
-                "Edmond O'Brien"
-            ],
-            "premios": [
-                "Premio Globo de Oro al Mejor Director (John Ford)"
-            ]
-        }
-    ],
-    "Sergio Leone": [
-        {
-            "titulo": "Por un puñado de dólares",
-            "duracion": "99 min",
-            "anio": "1964",
-            "reparto": [
-                "Clint Eastwood",
-                "Gian Maria Volontè",
-                "Marianne Koch",
-                "Wallach",
-                "José Calvo"
-            ],
-            "premios": [
-                "N/A"
-            ]
-        },
-        {
-            "titulo": "Por unos dólares más",
-            "duracion": "132 min",
-            "anio": "1965",
-            "reparto": [
-                "Clint Eastwood",
-                "Lee Van Cleef",
-                "Gian Maria Volontè",
-                "Klaus Kinski",
-                "Marianne Koch"
-            ],
-            "premios": [
-                "N/A"
-            ]
-        },
-        {
-            "titulo": "El bueno, el malo y el feo",
-            "duracion": "161 min",
-            "anio": "1966",
-            "reparto": [
-                "Clint Eastwood",
-                "Eli Wallach",
-                "Lee Van Cleef",
-                "Rada Rassimov",
-                "Luigi Pistilli"
-            ],
-            "premios": [
-                "N/A"
-            ]
-        }
-    ],
-    "Sam Peckinpah": [
-        {
-            "titulo": "La pandilla salvaje",
-            "duracion": "145 min",
-            "anio": "1969",
-            "reparto": [
-                "William Holden",
-                "Ernest Borgnine",
-                "Robert Ryan",
-                "Jaime Sánchez",
-                "Edmond O'Brien"
-            ],
-            "premios": [
-                "Premio de la Academia al Mejor Guion Original"
-            ]
-        },
-        {
-            "titulo": "Pat Garrett y Billy the Kid",
-            "duracion": "122 min",
-            "anio": "1973",
-            "reparto": [
-                "James Coburn",
-                "Kris Kristofferson",
-                "Bob Dylan",
-                "Jason Robards",
-                "Richard Jaeckel"
-            ],
-            "premios": [
-                "N/A"
-            ]
-        },
-        {
-            "titulo": "La balada de Cable Hogue",
-            "duracion": "121 min",
-            "anio": "1970",
-            "reparto": [
-                "Jason Robards",
-                "Stella Stevens",
-                "David Warner",
-                "Slim Pickens",
-                "L. Q. Jones"
-            ],
-            "premios": [
-                "N/A"
-            ]
-        }
-    ],
-    "Howard Hawks": [
-        {
-            "titulo": "Río Rojo",
-            "duracion": "133 min",
-            "anio": "1948",
-            "reparto": [
-                "John Wayne",
-                "Montgomery Clift",
-                "Joanne Dru",
-                "Walter Brennan",
-                "Coleen Gray"
-            ],
-            "premios": [
-                "N/A"
-            ]
-        },
-        {
-            "titulo": "Río Bravo",
-            "duracion": "141 min",
-            "anio": "1959",
-            "reparto": [
-                "John Wayne",
-                "Dean Martin",
-                "Ricky Nelson",
-                "Angie Dickinson",
-                "Walter Brennan"
-            ],
-            "premios": [
-                "N/A"
-            ]
-        },
-        {
-            "titulo": "El Dorado",
-            "duracion": "126 min",
-            "anio": "1966",
-            "reparto": [
-                "John Wayne",
-                "Robert Mitchum",
-                "James Caan",
-                "Charlene Holt",
-                "M. Emmet Walsh"
-            ],
-            "premios": [
-                "N/A"
-            ]
-        }
-    ],
-    "Clint Eastwood": [
-        {
-            "titulo": "Los imperdonables",
-            "duracion": "131 min",
-            "anio": "1992",
-            "reparto": [
-                "Clint Eastwood",
-                "Gene Hackman",
-                "Morgan Freeman",
-                "Richard Harris",
-                "Jaimz Woolvett"
-            ],
-            "premios": [
-                "Premio de la Academia a la Mejor Película",
-                "Premio de la Academia al Mejor Director (Clint Eastwood)",
-                "Premio de la Academia al Mejor Actor de Reparto (Gene Hackman)"
-            ]
-        },
-        {
-            "titulo": "El jinete pálido",
-            "duracion": "120 min",
-            "anio": "1985",
-            "reparto": [
-                "Clint Eastwood",
-                "Michael Moriarty",
-                "Laura Dern",
-                "Chris Penn",
-                "Richard Dysart"
-            ],
-            "premios": [
-                "N/A"
-            ]
-        },
-        {
-            "titulo": "Infierno de cobardes",
-            "duracion": "105 min",
-            "anio": "1973",
-            "reparto": [
-                "Clint Eastwood",
-                "Verna Bloom",
-                "Marianna Hill",
-                "Mitchell Ryan",
-                "Jack Ging"
-            ],
-            "premios": [
-                "N/A"
-            ]
-        }
-    ]
-}
+[
+    {
+      "nombre":"John Ford",
+      "peliculas": [
+          {
+              "titulo": "La diligencia",
+              "duracion": "96 min",
+              "anio": "1939",
+              "reparto": [
+                  "Claire Trevor",
+                  "John Wayne",
+                  "Andy Devine",
+                  "John Carradine",
+                  "Thomas Mitchell"
+              ],
+              "premios": [
+                  "Premio de la Academia al Mejor Actor de Reparto (Thomas Mitchell)"
+              ]
+          },
+          {
+              "titulo": "Más corazón que odio",
+              "duracion": "119 min",
+              "anio": "1956",
+              "reparto": [
+                  "John Wayne",
+                  "Jeffrey Hunter",
+                  "Natalie Wood",
+                  "Vera Miles",
+                  "Ward Bond"
+              ],
+              "premios": [
+                  "Premio de la Academia a la Mejor Fotografía (Color)"
+              ]
+          },
+          {
+              "titulo": "El hombre que mató a Liberty Valance",
+              "duracion": "123 min",
+              "anio": "1962",
+              "reparto": [
+                  "James Stewart",
+                  "John Wayne",
+                  "Vera Miles",
+                  "Lee Marvin",
+                  "Edmond O'Brien"
+              ],
+              "premios": [
+                  "Premio Globo de Oro al Mejor Director (John Ford)"
+              ]
+          }
+      ]
+      },
+    {
+      "nombre":"Sergio Leone",
+      "peliculas": [
+          {
+              "titulo": "Por un puñado de dólares",
+              "duracion": "99 min",
+              "anio": "1964",
+              "reparto": [
+                  "Clint Eastwood",
+                  "Gian Maria Volontè",
+                  "Marianne Koch",
+                  "Wallach",
+                  "José Calvo"
+              ],
+              "premios": [
+                  "N/A"
+              ]
+          },
+          {
+              "titulo": "Por unos dólares más",
+              "duracion": "132 min",
+              "anio": "1965",
+              "reparto": [
+                  "Clint Eastwood",
+                  "Lee Van Cleef",
+                  "Gian Maria Volontè",
+                  "Klaus Kinski",
+                  "Marianne Koch"
+              ],
+              "premios": [
+                  "N/A"
+              ]
+          },
+          {
+              "titulo": "El bueno, el malo y el feo",
+              "duracion": "161 min",
+              "anio": "1966",
+              "reparto": [
+                  "Clint Eastwood",
+                  "Eli Wallach",
+                  "Lee Van Cleef",
+                  "Rada Rassimov",
+                  "Luigi Pistilli"
+              ],
+              "premios": [
+                  "N/A"
+              ]
+          }
+      ]
+      },
+    {
+      "nombre":"Sam Peckinpah",
+      "peliculas": [
+          {
+              "titulo": "La pandilla salvaje",
+              "duracion": "145 min",
+              "anio": "1969",
+              "reparto": [
+                  "William Holden",
+                  "Ernest Borgnine",
+                  "Robert Ryan",
+                  "Jaime Sánchez",
+                  "Edmond O'Brien"
+              ],
+              "premios": [
+                  "Premio de la Academia al Mejor Guion Original"
+              ]
+          },
+          {
+              "titulo": "Pat Garrett y Billy the Kid",
+              "duracion": "122 min",
+              "anio": "1973",
+              "reparto": [
+                  "James Coburn",
+                  "Kris Kristofferson",
+                  "Bob Dylan",
+                  "Jason Robards",
+                  "Richard Jaeckel"
+              ],
+              "premios": [
+                  "N/A"
+              ]
+          },
+          {
+              "titulo": "La balada de Cable Hogue",
+              "duracion": "121 min",
+              "anio": "1970",
+              "reparto": [
+                  "Jason Robards",
+                  "Stella Stevens",
+                  "David Warner",
+                  "Slim Pickens",
+                  "L. Q. Jones"
+              ],
+              "premios": [
+                  "N/A"
+              ]
+          }
+      ]
+        
+      },
+    {
+      "nombre":"Howard Hawks",
+      "peliculas": [
+          {
+              "titulo": "Río Rojo",
+              "duracion": "133 min",
+              "anio": "1948",
+              "reparto": [
+                  "John Wayne",
+                  "Montgomery Clift",
+                  "Joanne Dru",
+                  "Walter Brennan",
+                  "Coleen Gray"
+              ],
+              "premios": [
+                  "N/A"
+              ]
+          },
+          {
+              "titulo": "Río Bravo",
+              "duracion": "141 min",
+              "anio": "1959",
+              "reparto": [
+                  "John Wayne",
+                  "Dean Martin",
+                  "Ricky Nelson",
+                  "Angie Dickinson",
+                  "Walter Brennan"
+              ],
+              "premios": [
+                  "N/A"
+              ]
+          },
+          {
+              "titulo": "El Dorado",
+              "duracion": "126 min",
+              "anio": "1966",
+              "reparto": [
+                  "John Wayne",
+                  "Robert Mitchum",
+                  "James Caan",
+                  "Charlene Holt",
+                  "M. Emmet Walsh"
+              ],
+              "premios": [
+                  "N/A"
+              ]
+          }
+      ]
+        
+      },
+    {
+      "nombre":"Clint Eastwood",
+      "peliculas": [
+          {
+              "titulo": "Los imperdonables",
+              "duracion": "131 min",
+              "anio": "1992",
+              "reparto": [
+                  "Clint Eastwood",
+                  "Gene Hackman",
+                  "Morgan Freeman",
+                  "Richard Harris",
+                  "Jaimz Woolvett"
+              ],
+              "premios": [
+                  "Premio de la Academia a la Mejor Película",
+                  "Premio de la Academia al Mejor Director (Clint Eastwood)",
+                  "Premio de la Academia al Mejor Actor de Reparto (Gene Hackman)"
+              ]
+          },
+          {
+              "titulo": "El jinete pálido",
+              "duracion": "120 min",
+              "anio": "1985",
+              "reparto": [
+                  "Clint Eastwood",
+                  "Michael Moriarty",
+                  "Laura Dern",
+                  "Chris Penn",
+                  "Richard Dysart"
+              ],
+              "premios": [
+                  "N/A"
+              ]
+          },
+          {
+              "titulo": "Infierno de cobardes",
+              "duracion": "105 min",
+              "anio": "1973",
+              "reparto": [
+                  "Clint Eastwood",
+                  "Verna Bloom",
+                  "Marianna Hill",
+                  "Mitchell Ryan",
+                  "Jack Ging"
+              ],
+              "premios": [
+                  "N/A"
+              ]
+          }
+      ]
+    }
+  ]
