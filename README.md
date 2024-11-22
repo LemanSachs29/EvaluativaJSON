@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="Logo de PHP" style="width: 150px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="Logo de PHP" style="width: 150px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/250px-JSON_vector_logo.svg.png" alt="Logo de PHP" style="width: 150px;">
 </div>
 
